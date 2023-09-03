@@ -57,6 +57,7 @@ At this point you should be able to run and edit the base code provided.
 |          | Art Painting &#8594; Cartoon | Art Painting &#8594; Sketch | Art Painting &#8594; Photo | Average |
 | :------: | :--------------------------: | :-------------------------: | :------------------------: | :-----: |
 | Baseline |            59.04             |             58.72           |            94.07           |  70.61  |
+| Nostro   |            61.56             |             57.39           |            94.91           |  71.29  |
 
 ## CLIP Text Encoder
 The following code fragment should provide an hint on how to use CLIP's text encoder.
